@@ -21,7 +21,7 @@ Which customers drive revenue, which are at risk, and what should marketing do d
 
 4,320 customers · £8,197,334 revenue · shares are of **identified-customer revenue** (see Limitations).
 
-![Segment comparison](Segment Comparison.png)
+![Segment comparison](https://github.com/juna-99/Customer-Segmentation-for-a-UK/blob/7b2111b32cdffa5e4b5a24799a91812acaf4e37f/Segment%20Comparison.png)
 
 ### Key findings
 
