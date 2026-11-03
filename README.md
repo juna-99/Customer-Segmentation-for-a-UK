@@ -52,17 +52,13 @@ Which customers drive revenue, which are at risk, and what should marketing do d
 ├── README.md
 ├── sql/
 │   ├── 01_load_and_clean.sql      # staging, type conversion, audit, cleaning, cancellation fix
-│   └── 02_rfm.sql                 # RFM table
-├── python/
-│   └── load_to_mysql.py           # fast CSV → MySQL staging load
+│   └── 01-1_load_and_clean.sql    # clean the bug
 ├── notebooks/
 │   └── 02_rfm_kmeans.ipynb        # EDA, k selection, clustering, validation
 ├── data/
 │   └── rfm_segments.csv           # output: one row per customer with segment
 ├── dashboard/
 │   ├── retail_segmentation.pbix
-│   ├── dashboard.pdf
-│   └── screenshots/
 └── docs/
     └── data_quality_notes.md      # every number from the cleaning audit
 ```
