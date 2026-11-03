@@ -21,7 +21,7 @@ Which customers drive revenue, which are at risk, and what should marketing do d
 
 4,320 customers · £8,197,334 revenue · shares are of **identified-customer revenue** (see Limitations).
 
-![Segment comparison](dashboard/screenshots/page2_segment_comparison.png)
+![Segment comparison](Segment Comparison.png)
 
 ### Key findings
 
@@ -87,7 +87,7 @@ Loaded 536,454 of 541,909 source rows (99.0%), ending 8 Dec 2011 09:28. The miss
 | Quantity ≤ 0 (includes cancellations) | 10,548 | 2.0% |
 | UnitPrice ≤ 0 | 2,511 | 0.5% |
 | Exact duplicate rows | 5,228 | 1.0% |
-| Non-product stock codes (POST, Manual, etc.) | FILL-IN | |
+| Non-product stock codes (POST, Manual, etc.) | 2980 | 0.5% |
 
 The categories overlap, so they do not sum to the rows removed. After applying all rules, 388,124 rows remained in the first cleaned table (148,330 removed, 27.7%).
 
@@ -161,5 +161,4 @@ Cluster the top-1% accounts separately, compare channel-level campaign performan
 ## Data source
 Chen, D. (2015). *Online Retail* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33. Check the dataset page for the current citation and licence.
 
-## Contact
-FILL-IN: Your name · [LinkedIn](FILL-IN) · [Portfolio](FILL-IN)
+
